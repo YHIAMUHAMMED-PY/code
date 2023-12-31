@@ -9,6 +9,7 @@
     display: grid;
     place-items: center;
     overflow: hidden;
+      background-color:#333;
   }
   
   main {
